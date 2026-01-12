@@ -1,25 +1,22 @@
-<!-- ================= HEADER WITH IMAGE ================= -->
-<table align="center">
-  <tr>
-    <td width="150">
-      <!-- Profile Image (replace link if you want your own photo) -->
-      <img 
-        src="https://avatars.githubusercontent.com/u/1?v=4" 
-        width="120" 
-        style="border-radius:50%;" 
-      />
-    </td>
-    <td>
-      <h1>Hi 👋, I'm Vaitheeswari</h1>
-      <h3>🚀 Passionate Full Stack Developer from India</h3>
-    </td>
-  </tr>
-</table>
+<!-- ================= HEADER WITH LAPTOP BACKGROUND IMAGE ================= -->
 
-<!-- ================= TYPING ANIMATION ================= -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=500&color=F97316&center=true&vCenter=true&width=520&lines=MERN+Stack+Developer;Full+Stack+Developer;React+%2B+Node+Developer;Always+Learning+New+Things" 
+    src="https://images.unsplash.com/photo-1519389950473-47ba0277781c"
+    alt="Laptop coding"
+    width="100%"
+    height="300"
+  />
+</p>
+
+<h1 align="center">Hi 👋, I'm Vaitheeswari</h1>
+<h3 align="center">🚀 Passionate Full Stack Developer from India</h3>
+
+<!-- ================= TYPING ANIMATION ================= -->
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=500&color=F97316&center=true&vCenter=true&width=550&lines=MERN+Stack+Developer;Full+Stack+Developer;React+%2B+Node+Developer;Always+Learning+New+Things" 
     alt="Typing SVG" 
   />
 </p>
@@ -32,7 +29,7 @@
 - 🌱 Currently learning **Sketch, Graph, Photoshop**
 - 💬 Ask me about **React, Express, Node.js**
 - 📫 Reach me at **eeswarivaithee@gmail.com**
-- 👨‍💻 Portfolio:  
+- 👩‍💻 Portfolio:  
   🔗 https://portfolio2-nu-peach.vercel.app/
 - 📄 Resume:  
   🔗 https://drive.google.com/file/d/1AjA5reUWWH7mMo6KTUjkNaoGxIrYJN1B/view
@@ -62,11 +59,11 @@
 <!-- 🔴 IMPORTANT: replace YOUR_GITHUB_USERNAME -->
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" 
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical"
     height="160"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical"
     height="160"
   />
 </p>
