@@ -4,8 +4,9 @@
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
 <p align="center">
+  <!-- Dark Laptop Image (NOT keyboard) -->
   <img
-    src="https://images.unsplash.com/photo-1517433456452-f9633a875f6f"
+    src="https://images.unsplash.com/photo-1518770660439-4636190af475"
     alt="dark laptop coding"
     width="90%"
   />
@@ -36,7 +37,7 @@
 
 ## ✨ Fun Fact
 
-🐞 The first computer “bug” was an actual real-life bug 😄💻
+💡 I love building clean, simple UI and turning ideas into working applications.
 
 ---
 
