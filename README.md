@@ -1,23 +1,39 @@
-<!-- ================= HEADER WITH LAPTOP BACKGROUND IMAGE ================= -->
+<!-- ================= HERO SECTION ================= -->
 
-<p align="center">
+<div align="center" style="position: relative; width: 100%; max-width: 100%;">
+
+  <!-- Background Image -->
   <img 
-    src="https://images.unsplash.com/photo-1519389950473-47ba0277781c"
-    alt="Laptop coding"
-    width="100%"
-    height="300"
+    src="https://images.unsplash.com/photo-1518779578993-ec3579fee39f"
+    alt="Black laptop coding"
+    style="width:100%; max-height:350px; object-fit:cover;"
   />
-</p>
 
-<h1 align="center">Hi 👋, I'm Vaitheeswari</h1>
-<h3 align="center">🚀 Passionate Full Stack Developer from India</h3>
+  <!-- Overlay Text -->
+  <div 
+    style="
+      position:absolute;
+      top:50%;
+      left:50%;
+      transform:translate(-50%, -50%);
+      text-align:center;
+      color:white;
+      background:rgba(0,0,0,0.6);
+      padding:20px 30px;
+      border-radius:12px;
+    "
+  >
+    <h1>Hi 👋, I'm Vaitheeswari</h1>
+    <h3>🚀 Passionate Full Stack Developer from India</h3>
+  </div>
+
+</div>
 
 <!-- ================= TYPING ANIMATION ================= -->
 
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=500&color=F97316&center=true&vCenter=true&width=550&lines=MERN+Stack+Developer;Full+Stack+Developer;React+%2B+Node+Developer;Always+Learning+New+Things" 
-    alt="Typing SVG" 
   />
 </p>
 
@@ -29,9 +45,9 @@
 - 🌱 Currently learning **Sketch, Graph, Photoshop**
 - 💬 Ask me about **React, Express, Node.js**
 - 📫 Reach me at **eeswarivaithee@gmail.com**
-- 👩‍💻 Portfolio:  
+- 👩‍💻 Portfolio  
   🔗 https://portfolio2-nu-peach.vercel.app/
-- 📄 Resume:  
+- 📄 Resume  
   🔗 https://drive.google.com/file/d/1AjA5reUWWH7mMo6KTUjkNaoGxIrYJN1B/view
 
 ---
@@ -56,7 +72,7 @@
 
 ## 📊 GitHub Stats
 
-<!-- 🔴 IMPORTANT: replace YOUR_GITHUB_USERNAME -->
+<!-- 🔴 Replace YOUR_GITHUB_USERNAME -->
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical"
