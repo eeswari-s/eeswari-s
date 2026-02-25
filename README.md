@@ -4,11 +4,7 @@
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
 <p align="center">
-  <img
-    src="https://static.vecteezy.com/system/resources/previews/052/637/249/non_2x/futuristic-neon-blue-laptop-showing-programming-code-on-black-background-vector.jpg"
-    alt="Futuristic laptop coding"
-    width="90%"
-  />
+ 
 </p>
 
 ---
@@ -18,8 +14,7 @@
 - 💻 I’m currently working on **Full Stack Development (MERN)**
 - 💬 Ask me about **MERN Stack**
 - 📫 How to reach me: **eeswarivaithee@gmail.com**
-- 👩‍💻 Portfolio:  
-  https://portfolio2-nu-peach.vercel.app/
+
 - 📄 Resume:  
   https://drive.google.com/file/d/1AjA5reUWWH7mMo6KTUjkNaoGxIrYJN1B/view
 
